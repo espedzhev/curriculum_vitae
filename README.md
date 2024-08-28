@@ -2,7 +2,7 @@
 # **Evald Spedzhev**
 **Python/Django Web Developer**
 
-[LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/e-spedzhev/)) | [GitHub]([https://github.com/your-github](https://github.com/espedzhev))
+[LinkedIn](https://www.linkedin.com/in/e-spedzhev/) | [GitHub](https://github.com/espedzhev)
 Email: evald.spedzhev@gmail.com | Phone: +44 7403239956  
 Location: Speke, Liverpool, Uk
 
