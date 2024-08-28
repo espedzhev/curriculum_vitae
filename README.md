@@ -1,17 +1,16 @@
-
 # **Evald Spedzhev**
 **Python/Django Web Developer**
 
 [LinkedIn](https://www.linkedin.com/in/e-spedzhev/) | [GitHub](https://github.com/espedzhev)
 
 Email: evald.spedzhev@gmail.com | Phone: +44 7403239956  
-Location: Speke, Liverpool, Uk
+Location: Speke, Liverpool, UK
 
 ---
 
 ## **Summary**
 
-Experienced Python/Django web developer with over X years of experience building and maintaining high-performance web applications. Proficient in designing scalable solutions, implementing RESTful APIs, and working with modern front-end frameworks. Strong ability to lead projects from concept to deployment and collaborate effectively in a team environment.
+Experienced Python/Django web developer with over 9 years of experience building and maintaining high-performance web applications. Proficient in designing scalable solutions, implementing RESTful APIs, and working with modern front-end frameworks. Strong ability to lead projects from concept to deployment and collaborate effectively in a team environment.
 
 ---
 
@@ -29,44 +28,44 @@ Experienced Python/Django web developer with over X years of experience building
 
 ## **Professional Experience**
 
-### **Software Enginieering Technical Team Lead**  
+### **Software Engineering Technical Team Lead**  
 **Wazoku Ltd** - *Remote, UK*  
 *08/2023 – Present* - 1 yr 10 mo
 
-- Lead the development of a high-traffic e-commerce platform using Django, resulting in a 25% increase in user engagement.
-- Architected and implemented a microservices-based system to handle complex order processing workflows, improving scalability and reducing processing time by 40%.
-- Collaborated with front-end developers to integrate Django with React.js, enhancing user experience and application responsiveness.
-- Implemented and optimized RESTful APIs using Django REST Framework, reducing response time by 30%.
-- Mentored junior developers, conducted code reviews, and ensured adherence to best practices.
+- **Project Leadership:** Led the technical direction of multiple projects, ensuring alignment with business goals and technical best practices.
+- **Architecture Design:** Designed and implemented microservices-based architectures to enhance scalability and maintainability.
+- **Team Management:** Supervised a team of developers, providing mentorship, conducting performance reviews, and facilitating professional growth.
+- **Code Quality:** Ensured high code quality through rigorous code reviews, adherence to coding standards, and the use of automated testing.
+- **Client Collaboration:** Worked closely with product owners and stakeholders to translate business requirements into technical solutions.
 
 ### **Senior Software Engineer**  
 **Wazoku Ltd** - *Hybrid, UK*  
 *11/2022 – 08/2023* - 10 mo
 
-- Lead the development of a high-traffic e-commerce platform using Django, resulting in a 25% increase in user engagement.
-- Architected and implemented a microservices-based system to handle complex order processing workflows, improving scalability and reducing processing time by 40%.
-- Collaborated with front-end developers to integrate Django with React.js, enhancing user experience and application responsiveness.
-- Implemented and optimized RESTful APIs using Django REST Framework, reducing response time by 30%.
-- Mentored junior developers, conducted code reviews, and ensured adherence to best practices.
+- **System Optimization:** Optimized existing systems to improve performance, including reducing API response times and database query efficiency.
+- **API Development:** Developed and maintained RESTful APIs, ensuring they met business requirements and industry standards.
+- **Collaboration:** Worked in close collaboration with front-end developers, UX/UI designers, and product managers to deliver cohesive and user-friendly applications.
+- **Mentorship:** Provided guidance and mentorship to junior developers, helping them grow their technical skills and understanding of best practices.
+- **Continuous Improvement:** Played a key role in continuously improving development processes, including the adoption of new tools and methodologies.
 
 ### **Software Engineer**  
 **Wazoku Ltd** - *Bristol, UK*  
 *10/2017 – 11/2022* - 5 yr 2 mo
 
-- Developed and maintained a multi-tenant SaaS application for managing client portfolios, incorporating role-based access control.
-- Integrated third-party services, including payment gateways and email service providers, into the Django application.
-- Optimized database queries and improved the overall performance of the application by implementing caching mechanisms using Redis.
-- Automated deployment pipelines using Jenkins and Docker, reducing deployment time by 50%.
-- Collaborated with cross-functional teams to gather requirements, design, and implement new features.
+- **Application Development:** Developed and maintained complex multi-tenant SaaS applications, ensuring high availability and performance.
+- **Third-Party Integration:** Integrated various third-party services, including payment gateways and APIs, into the main application.
+- **Performance Tuning:** Identified and resolved performance bottlenecks, implemented caching strategies, and optimized database queries.
+- **Automation:** Automated deployment and continuous integration processes, reducing manual intervention and improving deployment speed.
+- **Cross-Functional Collaboration:** Collaborated with teams across different functions, including design, product, and QA, to ensure successful project delivery.
 
 ### **Software Engineer**  
 **The Realbuzz Group Ltd** - *Chester, UK*  
 *10/2015 – 10/2017*
 
-- Contributed to the development of a customer relationship management (CRM) system using Django, improving client management capabilities.
-- Assisted in the design and implementation of RESTful APIs for mobile and web applications.
-- Performed unit testing and debugging to ensure code quality and application stability.
-- Participated in Agile ceremonies, including sprint planning, daily stand-ups, and retrospectives.
+- **CRM Development:** Contributed to the development of a customer relationship management (CRM) system, enhancing client management and interaction.
+- **API Design:** Assisted in the design and development of RESTful APIs, facilitating integration with mobile and web applications.
+- **Testing and Debugging:** Performed extensive unit testing and debugging to ensure the stability and reliability of applications.
+- **Agile Practices:** Participated in Agile development practices, including sprint planning, daily stand-ups, and retrospectives to improve team productivity.
 
 ---
 
@@ -76,7 +75,6 @@ Experienced Python/Django web developer with over X years of experience building
 **Swansea University** - *Swansea, UK*  
 *2010 – 2013*
 
-
 ---
 
 ## **References**
@@ -84,4 +82,3 @@ Experienced Python/Django web developer with over X years of experience building
 Available upon request.
 
 ---
-
