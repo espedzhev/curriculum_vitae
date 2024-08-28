@@ -14,18 +14,6 @@ Experienced Python/Django web developer with over 9 years of experience building
 
 ---
 
-## **Technical Skills**
-
-- **Languages:** Python, JavaScript, HTML5, CSS3, SQL
-- **Frameworks/Libraries:** Django, Django REST Framework, Flask, jQuery, React.js, Bootstrap
-- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
-- **Version Control:** Git, GitHub, GitLab
-- **Tools & Platforms:** Docker, AWS (EC2, S3, RDS), Jenkins, Celery, Redis
-- **Testing:** Unit Testing, Selenium, pytest
-- **Other:** RESTful API Design, GraphQL, Continuous Integration/Continuous Deployment (CI/CD)
-
----
-
 ## **Professional Experience**
 
 ### **Software Engineering Technical Team Lead**  
@@ -74,6 +62,18 @@ Experienced Python/Django web developer with over 9 years of experience building
 ### **BSc Computer Science**  
 **Swansea University** - *Swansea, UK*  
 *2010 – 2013*
+
+---
+
+## **Technical Skills**
+
+- **Languages:** Python, JavaScript, HTML5, CSS3, SQL
+- **Frameworks/Libraries:** Django, Django REST Framework, Flask, jQuery, React.js, Bootstrap
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
+- **Version Control:** Git, GitHub, GitLab
+- **Tools & Platforms:** Docker, AWS (EC2, S3, RDS), Jenkins, Celery, Redis
+- **Testing:** Unit Testing, Selenium, pytest
+- **Other:** RESTful API Design, GraphQL, Continuous Integration/Continuous Deployment (CI/CD)
 
 ---
 
