@@ -18,17 +18,18 @@ Experienced Python/Django web developer with over 9 years of experience building
 
 ### **Software Engineering Technical Team Lead**  
 **Wazoku Ltd** - *Remote, UK*  
-*08/2023 – Present* - 1 yr 10 mo
+*11/2022 – Present* - 1 yr 11 mo
+
+** Redo
+- Collabated with QA and PM`s to create delivery focus ethos withing enigniering department and my team
+  - Understanding priority
+  - Working with products to understand  checkpints to avoid losing enginiering effort
 
 - **Project Leadership:** Led the technical direction of multiple projects, ensuring alignment with business goals and technical best practices.
 - **Architecture Design:** Designed and implemented microservices-based architectures to enhance scalability and maintainability.
 - **Team Management:** Supervised a team of developers, providing mentorship, conducting performance reviews, and facilitating professional growth.
 - **Code Quality:** Ensured high code quality through rigorous code reviews, adherence to coding standards, and the use of automated testing.
 - **Client Collaboration:** Worked closely with product owners and stakeholders to translate business requirements into technical solutions.
-
-### **Senior Software Engineer**  
-**Wazoku Ltd** - *Hybrid, UK*  
-*11/2022 – 08/2023* - 10 mo
 
 - **System Optimization:** Optimized existing systems to improve performance, including reducing API response times and database query efficiency.
 - **API Development:** Developed and maintained RESTful APIs, ensuring they met business requirements and industry standards.
