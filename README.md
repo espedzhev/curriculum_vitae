@@ -29,9 +29,9 @@ Experienced Python/Django web developer with over X years of experience building
 
 ## **Professional Experience**
 
-### **Senior Python/Django Developer**  
-**Company Name** - *Location*  
-*MM/YYYY – Present*
+### **Software Enginieering Technical Team Lead**  
+**Wazoku Ltd** - *Remote, UK*  
+*08/2023 – Present* - 1 yr 10 mo
 
 - Lead the development of a high-traffic e-commerce platform using Django, resulting in a 25% increase in user engagement.
 - Architected and implemented a microservices-based system to handle complex order processing workflows, improving scalability and reducing processing time by 40%.
@@ -39,9 +39,19 @@ Experienced Python/Django web developer with over X years of experience building
 - Implemented and optimized RESTful APIs using Django REST Framework, reducing response time by 30%.
 - Mentored junior developers, conducted code reviews, and ensured adherence to best practices.
 
-### **Python/Django Developer**  
-**Company Name** - *Location*  
-*MM/YYYY – MM/YYYY*
+### **Senior Software Engineer**  
+**Wazoku Ltd** - *Hybrid, UK*  
+*11/2022 – 08/2023* - 10 mo
+
+- Lead the development of a high-traffic e-commerce platform using Django, resulting in a 25% increase in user engagement.
+- Architected and implemented a microservices-based system to handle complex order processing workflows, improving scalability and reducing processing time by 40%.
+- Collaborated with front-end developers to integrate Django with React.js, enhancing user experience and application responsiveness.
+- Implemented and optimized RESTful APIs using Django REST Framework, reducing response time by 30%.
+- Mentored junior developers, conducted code reviews, and ensured adherence to best practices.
+
+### **Software Engineer**  
+**Wazoku Ltd** - *Bristol, UK*  
+*10/2017 – 11/2022* - 5 yr 2 mo
 
 - Developed and maintained a multi-tenant SaaS application for managing client portfolios, incorporating role-based access control.
 - Integrated third-party services, including payment gateways and email service providers, into the Django application.
@@ -49,9 +59,9 @@ Experienced Python/Django web developer with over X years of experience building
 - Automated deployment pipelines using Jenkins and Docker, reducing deployment time by 50%.
 - Collaborated with cross-functional teams to gather requirements, design, and implement new features.
 
-### **Junior Python/Django Developer**  
-**Company Name** - *Location*  
-*MM/YYYY – MM/YYYY*
+### **Software Engineer**  
+**The Realbuzz Group Ltd** - *Chester, UK*  
+*10/2015 – 10/2017*
 
 - Contributed to the development of a customer relationship management (CRM) system using Django, improving client management capabilities.
 - Assisted in the design and implementation of RESTful APIs for mobile and web applications.
@@ -60,50 +70,12 @@ Experienced Python/Django web developer with over X years of experience building
 
 ---
 
-## **Projects**
-
-### **Project Name**  
-**GitHub:** [Repository Link](https://github.com/your-repository) | **Live Demo:** [Demo Link](https://your-project-demo.com)
-
-- Developed a Django-based web application that allows users to track and manage their tasks. Implemented authentication, task categorization, and priority levels.
-- Designed the database schema using PostgreSQL and optimized queries for fast data retrieval.
-- Integrated third-party APIs to provide additional features such as calendar synchronization and email notifications.
-
-### **Project Name**  
-**GitHub:** [Repository Link](https://github.com/your-repository) | **Live Demo:** [Demo Link](https://your-project-demo.com)
-
-- Built a RESTful API using Django REST Framework to serve as the backend for a mobile application. Implemented token-based authentication and user management.
-- Deployed the application on AWS using EC2, S3, and RDS, ensuring high availability and scalability.
-- Wrote comprehensive unit tests to maintain code quality and reduce bugs.
-
----
-
 ## **Education**
 
-### **Bachelor of Science in Computer Science**  
-**University Name** - *Location*  
-*MM/YYYY – MM/YYYY*
+### **BSc Computer Science**  
+**Swansea University** - *Swansea, UK*  
+*2010 – 2013*
 
-- Relevant coursework: Data Structures, Algorithms, Web Development, Database Systems, Software Engineering
-
----
-
-## **Certifications**
-
-- **Django for Professionals** - [Platform Name] - *MM/YYYY*
-- **AWS Certified Developer – Associate** - [Platform Name] - *MM/YYYY*
-- **Certified ScrumMaster (CSM)** - [Platform Name] - *MM/YYYY*
-
----
-
-## **Volunteer Experience**
-
-### **Open Source Contributor**  
-**Project Name** - *Location*  
-*MM/YYYY – Present*
-
-- Contributed to an open-source Django project, focusing on improving documentation and fixing bugs.
-- Developed new features and optimized existing code to enhance the project's functionality.
 
 ---
 
