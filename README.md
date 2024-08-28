@@ -41,7 +41,7 @@ Experienced Python/Django web developer with over 9 years of experience building
 **Wazoku Ltd** - *Bristol, UK*  
 *10/2017 – 11/2022* - 5 yr 2 mo
 
-- **Application Development:** Developed and maintained complex multi-tenant SaaS applications, ensuring high availability and performance.
+- **Application Development:** Developed and maintained complex multi-tenant enterprise SaaS applications, ensuring high availability and performance.
 - **Third-Party Integration:** Integrated various third-party services, including payment gateways and APIs, into the main application.
 - **Performance Tuning:** Identified and resolved performance bottlenecks, implemented caching strategies, and optimized database queries.
 - **Cross-Functional Collaboration:** Collaborated with teams across different functions, including design, product, and QA, to ensure successful project delivery.
