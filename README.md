@@ -44,14 +44,12 @@ Experienced Python/Django web developer with over 9 years of experience building
 - **Application Development:** Developed and maintained complex multi-tenant SaaS applications, ensuring high availability and performance.
 - **Third-Party Integration:** Integrated various third-party services, including payment gateways and APIs, into the main application.
 - **Performance Tuning:** Identified and resolved performance bottlenecks, implemented caching strategies, and optimized database queries.
-- **Automation:** Automated deployment and continuous integration processes, reducing manual intervention and improving deployment speed.
 - **Cross-Functional Collaboration:** Collaborated with teams across different functions, including design, product, and QA, to ensure successful project delivery.
 
 ### **Software Engineer**  
 **The Realbuzz Group Ltd** - *Chester, UK*  
 *10/2015 – 10/2017*
 
-- **CRM Development:** Contributed to the development of a customer relationship management (CRM) system, enhancing client management and interaction.
 - **API Design:** Assisted in the design and development of RESTful APIs, facilitating integration with mobile and web applications.
 - **Testing and Debugging:** Performed extensive unit testing and debugging to ensure the stability and reliability of applications.
 - **Agile Practices:** Participated in Agile development practices, including sprint planning, daily stand-ups, and retrospectives to improve team productivity.
