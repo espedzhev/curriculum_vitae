@@ -54,7 +54,13 @@ I also participated in implementing third-party integrations, including analytic
 **The Realbuzz Group Ltd** - *Chester, UK*  
 *10/2015 – 10/2017* - 2 years
 
-- **TODO**
+I joined The Realbuzz Group as part of a team dedicated to rebuilding their website, which promotes an active lifestyle.
+Our primary focus was on utilising Django CMS and developing web applications that provide useful tools for end users.
+
+One of our key achievements was building a completely new REST API for the project.
+We worked closely with outsourced mobile developers, providing documentation and updates to ensure seamless integration with the REST API.
+
+In addition to this, I contributed to delivering their main product, which offers online solutions to the active endurance sector, including active events and charity fundraising platforms.
 
 ---
 
