@@ -10,48 +10,29 @@ Location: Speke, Liverpool, UK
 
 ## **Summary**
 
-Experienced Python/Django web developer with over 9 years of experience building and maintaining high-performance web applications. Proficient in designing scalable solutions, implementing RESTful APIs, and working with modern front-end frameworks. Strong ability to lead projects from concept to deployment and collaborate effectively in a team environment.
+Experienced Python/Django/Angular web developer with over 10 years of experience building and maintaining high-performance web applications. Proficient in designing scalable solutions, implementing RESTful APIs, and working with modern front-end frameworks. Strong ability to lead projects from concept to deployment and collaborate effectively in a team environment.
 
 ---
 
 ## **Professional Experience**
 
 ### **Software Engineering Technical Team Lead**  
-**Wazoku Ltd** - *Remote, UK*  
-*11/2022 – Present* - 1 yr 11 mo
- 
-- Collaborated with QA and PMs to create a delivery-focused ethos within the engineering department and my team.
-  - Prioritized tasks effectively.
-  - Worked with product teams to understand checkpoints and avoid unnecessary engineering effort.
+**Wazoku Ltd** - *Bristol, UK*
+*10/2015 – 10/2024* - 9 yr
 
-- **Project Leadership:** Led the technical direction of multiple projects, ensuring alignment with business goals and technical best practices.
-- **Architecture Design:** Designed and implemented microservices-based architectures to enhance scalability and maintainability.
-- **Team Management:** Supervised a team of developers, providing mentorship, conducting performance reviews, and facilitating professional growth.
-- **Code Quality:** Ensured high code quality through rigorous code reviews, adherence to coding standards, and the use of automated testing.
-- **Client Collaboration:** Worked closely with product owners and stakeholders to translate business requirements into technical solutions.
-
-- **System Optimization:** Optimized existing systems to improve performance, including reducing API response times and database query efficiency.
-- **API Development:** Developed and maintained RESTful APIs, ensuring they met business requirements and industry standards.
-- **Collaboration:** Worked in close collaboration with front-end developers, UX/UI designers, and product managers to deliver cohesive and user-friendly applications.
-- **Mentorship:** Provided guidance and mentorship to junior developers, helping them grow their technical skills and understanding of best practices.
-- **Continuous Improvement:** Played a key role in continuously improving development processes, including the adoption of new tools and methodologies.
-
-### **Software Engineer**  
-**Wazoku Ltd** - *Bristol, UK*  
-*10/2017 – 11/2022* - 5 yr 2 mo
-
-- **Application Development:** Developed and maintained complex multi-tenant enterprise SaaS applications, ensuring high availability and performance.
-- **Third-Party Integration:** Integrated various third-party services, including payment gateways and APIs, into the main application.
-- **Performance Tuning:** Identified and resolved performance bottlenecks, implemented caching strategies, and optimized database queries.
-- **Cross-Functional Collaboration:** Collaborated with teams across different functions, including design, product, and QA, to ensure successful project delivery.
-
-### **Software Engineer**  
-**The Realbuzz Group Ltd** - *Chester, UK*  
-*10/2015 – 10/2017*
-
-- **API Design:** Assisted in the design and development of RESTful APIs, facilitating integration with mobile and web applications.
-- **Testing and Debugging:** Performed extensive unit testing and debugging to ensure the stability and reliability of applications.
-- **Agile Practices:** Participated in Agile development practices, including sprint planning, daily stand-ups, and retrospectives to improve team productivity.
+I joined *Wazoku Ltd* as a software engineer and been a valuable resource to the business improving my skill and as a result I was trusted responsibilities of a technical team lead withing one of our teams. 
+On that position I've played a key role collaborating with QA, product and design teams to create a delivery-focused ethos within the engineering department and my team.
+Key challenges included efficient task prioritisation and working closely with product teams to understand checkpoints and avoid unnecessary engineering effort. 
+I led technical direction of designing and implementing new product features, ensuring alignment with business goals and technical best practices.
+My responsibilities also included supervision of a team of 3 developers providing mentorship and keeping productivity and desired level.
+I participated continuously improving development processes, including the adoption of new tools and methodologies.
+As a team we focused on ensuring high code quality through code review, discussing best practices and implementing them to an existing code base.
+We took on the biggest challenge in working with product owners and stakeholders to translate business requirements in technical solutions in fast-paced 2-week sprint Agile development cycle.
+We regulary reviewed our existing systems to find ways to optimise including reducing API response times and database query efficiency.
+Main project is a complex multi-tenant enterprise SaaS application.
+Core functionality is build around utilising RESTful API with Angular framework to deliver single page application experience to the end users.
+Test coverage was achieved with high number of  unit, integration and e2e tests.
+I participated in implementing third part integrations including Analytics and translations.
 
 ---
 
