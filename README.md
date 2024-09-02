@@ -21,7 +21,7 @@ Strong ability to lead projects from concept to deployment and collaborate effec
 
 ### **Software Engineering Technical Team Lead**  
 **Wazoku Ltd** - *Bristol, UK*  
-*10/2017 – 10/2024* - 9 years
+*10/2017 – 10/2024* - 7 years
 
 I joined *Wazoku Ltd* as a software engineer and became a valuable asset to the business, continuously improving my skills.
 As a result, I was entrusted with the responsibilities of a technical team lead within one of our teams.
