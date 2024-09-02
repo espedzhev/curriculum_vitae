@@ -21,7 +21,7 @@ Strong ability to lead projects from concept to deployment and collaborate effec
 
 ### **Software Engineering Technical Team Lead**  
 **Wazoku Ltd** - *Bristol, UK*  
-*10/2015 – 10/2024* - 9 years
+*10/2017 – 10/2024* - 9 years
 
 I joined *Wazoku Ltd* as a software engineer and became a valuable asset to the business, continuously improving my skills.
 As a result, I was entrusted with the responsibilities of a technical team lead within one of our teams.
@@ -49,6 +49,12 @@ I also participated in implementing third-party integrations, including analytic
 - Implemented a foundational module (Organisations feature) that evolved into a revenue-generating product, contributing to the company’s financial growth.
 - Played a crucial role in implementing internationalisation (i18n) across the codebase, expanding the product’s appeal to a broader international customer base.
 - Developed a proof of concept for migrating from agency-based translation services to automated translations using DeepL, which was later implemented by the team and resulted in substantial cost savings on translation expenses.
+
+### **Software Engineer**  
+**The Realbuzz Group Ltd** - *Chester, UK*  
+*10/2015 – 10/2017* - 2 years
+
+- **TODO**
 
 ---
 
