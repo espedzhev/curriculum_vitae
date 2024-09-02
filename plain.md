@@ -43,22 +43,13 @@ Core functionality was built around utilising RESTful APIs with the Angular fram
 Test coverage was achieved with a high number of unit, integration, and end-to-end tests.
 I participated in implementing third-party integrations, including analytics and translations.
 
-Key Achievements:
-- Partnered with our data science team to implement and launch our embedded analytics platform (Sisense Analytics)
-- Completed a major refactor on the core entities our the application to drive greater customer engagement (Entity Builder)
-- Implemented a new foundational module that has now grown into a new revenue generating product (Organisations feature)
-- Played a major role in implementing i18n into our code base to support a wider range of international customers
-- Later led the migration away from agency translation to automated via DeepL saving the company most of translation spend
-
 ## **Key Achievements**
 
 - Partnered with the data science team to implement and launch an embedded analytics platform using Sisense, enhancing data-driven decision-making capabilities for clients.
-- Completed a major refactor of core application entities (Entity Builder), significantly improving customer engagement and laying the foundation for future enhancements.
-- Implemented a new foundational module (Organisations feature) that evolved into a revenue-generating product, contributing to the company’s financial growth.
+- Completed a major refactor of core application entities (Entity Builder), significantly improving customer engagement and laying the groundwork for future enhancements.
+- Implemented a foundational module (Organisations feature) that evolved into a revenue-generating product, contributing to the company’s financial growth.
 - Played a crucial role in implementing internationalisation (i18n) across the codebase, expanding the product’s appeal to a broader international customer base.
-- Developed the proof of concept for migrating from agency-based translation services to automated translations using DeepL, which was later implemented by the team and resulted in substantial cost savings on translation expenses.
-
-
+- Developed a proof of concept for migrating from agency-based translation services to automated translations using DeepL, which was later implemented by the team and resulted in substantial cost savings on translation expenses.
 
 ---
 
