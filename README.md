@@ -1,50 +1,54 @@
 # **Evald Spedzhev**
-**Python/Django Web Developer**
+**Full Stack Python Software Engineer**
 
 [LinkedIn](https://www.linkedin.com/in/e-spedzhev/) | [GitHub](https://github.com/espedzhev)
 
-Email: evald.spedzhev@gmail.com | Phone: +44 7403239956  
+Email: evald.spedzhev@gmail.com\
+Phone: +44 7403239956\
 Location: Speke, Liverpool, UK
 
 ---
 
 ## **Summary**
 
-Experienced Python/Django/Angular web developer with over 10 years of experience building and maintaining high-performance web applications. Proficient in designing scalable solutions, implementing RESTful APIs, and working with modern front-end frameworks. Strong ability to lead projects from concept to deployment and collaborate effectively in a team environment.
+Experienced Full Stack Python Software Engineer web developer with over 10 years of experience in building and maintaining high-performance web applications.
+Proficient in designing scalable solutions, implementing RESTful APIs, and working with modern front-end frameworks.
+Strong ability to lead projects from concept to deployment and collaborate effectively in a team environment.
 
 ---
 
 ## **Professional Experience**
 
 ### **Software Engineering Technical Team Lead**  
-**Wazoku Ltd** - *Bristol, UK*
-*10/2015 – 10/2024* - 9 yr
+**Wazoku Ltd** - *Bristol, UK*  
+*10/2015 – 10/2024* - 9 years
 
-I joined *Wazoku Ltd* as a software engineer and been a valuable resource to the business improving my skill and as a result I was trusted responsibilities of a technical team lead withing one of our teams. 
+I joined *Wazoku Ltd* as a software engineer and became a valuable asset to the business, continuously improving my skills.
+As a result, I was entrusted with the responsibilities of a technical team lead within one of our teams.
+In this role, I played a key part in collaborating with QA, product, and design teams to foster a delivery-focused ethos within the engineering department and my team.
 
-On that position I've played a key role collaborating with QA, product and design teams to create a delivery-focused ethos within the engineering department and my team.
+Key challenges included efficient task prioritisation and working closely with product teams to understand checkpoints and avoid unnecessary engineering efforts.
+I led the technical direction for designing and implementing new product features, ensuring alignment with business goals and technical best practices.
 
-Key challenges included efficient task prioritisation and working closely with product teams to understand checkpoints and avoid unnecessary engineering effort. 
+My responsibilities also included supervising a team of three developers, providing mentorship, and maintaining productivity at the desired levels.
+I continuously participated in improving development processes, including the adoption of new tools and methodologies.
 
-I led technical direction of designing and implementing new product features, ensuring alignment with business goals and technical best practices.
+As a team, we focused on ensuring high code quality through code reviews, discussing best practices, and implementing them within the existing codebase.
+We took on the challenge of working with product owners and stakeholders to translate business requirements into technical solutions within a fast-paced, 2-week sprint Agile development cycle.
 
-My responsibilities also included supervision of a team of 3 developers providing mentorship and keeping productivity and desired level.
+We regularly reviewed our existing systems to find ways to optimise performance, including reducing API response times and improving database query efficiency.
+The main project was a complex multi-tenant enterprise SaaS application, with core functionality built around utilising RESTful APIs with the Angular framework to deliver a single-page application experience to end users.
 
-I participated continuously improving development processes, including the adoption of new tools and methodologies.
+Test coverage was achieved with a high number of unit, integration, and end-to-end tests.
+I also participated in implementing third-party integrations, including analytics and translations.
 
-As a team we focused on ensuring high code quality through code review, discussing best practices and implementing them to an existing code base.
+## **Key Achievements**
 
-We took on the biggest challenge in working with product owners and stakeholders to translate business requirements in technical solutions in fast-paced 2-week sprint Agile development cycle.
-
-We regulary reviewed our existing systems to find ways to optimise including reducing API response times and database query efficiency.
-
-Main project is a complex multi-tenant enterprise SaaS application.
-
-Core functionality is build around utilising RESTful API with Angular framework to deliver single page application experience to the end users.
-
-Test coverage was achieved with high number of  unit, integration and e2e tests.
-
-I participated in implementing third part integrations including Analytics and translations.
+- Partnered with the data science team to implement and launch an embedded analytics platform using Sisense, enhancing data-driven decision-making capabilities for clients.
+- Completed a major refactor of core application entities (Entity Builder), significantly improving customer engagement and laying the groundwork for future enhancements.
+- Implemented a foundational module (Organisations feature) that evolved into a revenue-generating product, contributing to the company’s financial growth.
+- Played a crucial role in implementing internationalisation (i18n) across the codebase, expanding the product’s appeal to a broader international customer base.
+- Developed a proof of concept for migrating from agency-based translation services to automated translations using DeepL, which was later implemented by the team and resulted in substantial cost savings on translation expenses.
 
 ---
 
@@ -59,12 +63,13 @@ I participated in implementing third part integrations including Analytics and t
 ## **Technical Skills**
 
 - **Languages:** Python, JavaScript, HTML5, CSS3, SQL
-- **Frameworks/Libraries:** Django, Django REST Framework, jQuery, AngularJS, Angular, Bootstrap
-- **Databases:** PostgreSQL
+- **Frameworks/Libraries:** Django, Django REST Framework, Angular, AngularJS, jQuery, Bootstrap
+- **Databases:** PostgreSQL, Redis
 - **Version Control:** Git, GitHub
-- **Tools & Platforms:** Jenkins, Celery, Redis, AWS
+- **Tools & Platforms:** Jira, Jenkins, Celery, AWS
 - **Testing:** Unit Testing, Selenium, pytest
-- **Other:** RESTful API Design, GraphQL, Continuous Integration/Continuous Deployment (CI/CD)
+- **Coding Practices:** DRY, SOLID, TDD, Continuous Integration/Continuous Deployment (CI/CD), Agile Methodologies
+- **Other:** RESTful API Design, GraphQL
 
 ---
 
