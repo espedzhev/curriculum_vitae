@@ -1,5 +1,5 @@
 # **Evald Spedzhev**
-**Python/Django Web Developer**
+**Python/Django/Angular Web Developer**
 
 [LinkedIn](https://www.linkedin.com/in/e-spedzhev/) | [GitHub](https://github.com/espedzhev)
 
