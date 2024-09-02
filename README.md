@@ -11,7 +11,7 @@ Location: Speke, Liverpool, UK
 
 ## **Summary**
 
-Experienced Full Stack Python Software Engineer web developer with over 10 years of experience in building and maintaining high-performance web applications.
+Experienced Full Stack Python Software Engineer with over 10 years of experience in building and maintaining high-performance web applications.
 Proficient in designing scalable solutions, implementing RESTful APIs, and working with modern front-end frameworks.
 Strong ability to lead projects from concept to deployment and collaborate effectively in a team environment.
 
@@ -20,7 +20,7 @@ Strong ability to lead projects from concept to deployment and collaborate effec
 ## **Professional Experience**
 
 ### **Software Engineering Technical Team Lead**  
-**Wazoku Ltd** - *Bristol, UK*  
+**Wazoku Ltd** - *Remote, UK*  
 *10/2017 – 10/2024* - 7 years
 
 I joined *Wazoku Ltd* as a software engineer and became a valuable asset to the business, continuously improving my skills.
