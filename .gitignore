@@ -6,4 +6,4 @@ gen
 cv_output.html
 *.pdf
 package-lock.json
-node_modules
+node_modules/
