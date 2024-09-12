@@ -74,6 +74,16 @@ const puppeteer = require('puppeteer');
           is one of the most important aspects of life.</li>
       </ul>
 
+      <h2>QA Section</h2>
+      <p>I don’t have any finished public projects outside of work, but I can share my experience with a project I worked on at Wazoku. 
+      I contributed to the development of the Challenge Builder V2, a flexible and configurable feature designed to improve user experience.</p>
+
+      <p>We created a builder wizard that allowed users to configure default settings in just a few minutes, 
+      while providing advanced users the option to customize through hidden sections in expandable accordions. 
+      This approach simplified complex configurations into a user-friendly interface, making it adaptable for both casual and power users.</p>
+
+      <p>Next, we plan to introduce tailored templates based on common use cases to improve the client onboarding process.</p>
+
       <p>I am excited about the opportunity to join your team and contribute my experience to your projects. 
       I would appreciate your consideration of me as a candidate for this role.</p>
 
@@ -89,7 +99,7 @@ const puppeteer = require('puppeteer');
 
   // Generate PDF with reduced font size and proper layout
   await page.pdf({
-    path: 'Evald_Spedzhev_Cover_Letter_Improved.pdf',
+    path: 'reincubate_evald_spedzhev.pdf',
     format: 'A4',
     printBackground: true,
     margin: { top: '20px', right: '20px', bottom: '20px', left: '20px' }

@@ -3,5 +3,7 @@
 out
 gen
 .venv/
-evald_spedzhev_cv_2024.pdf
 cv_output.html
+*.pdf
+package-lock.json
+node_modules/

@@ -1,4 +1,4 @@
-**Evald Spedzhev**  
+~~**Evald Spedzhev**  
 Speke, Liverpool, UK  
 evald.spedzhev@gmail.com | +44 7403239956  
 Date: 10/09/2024
@@ -23,9 +23,16 @@ Some key highlights of my work that align with your requirements:
 - I found great satisfaction in delivering features from initial concept to release. The biggest challenge was ensuring the implementation was as robust as possible to simplify future improvements.
 - I relate strongly to your company’s values, especially integrity. I believe treating everything with respect is one of the most important aspects of life.
 
+QA:
+> Tell us about a project, site or app you’ve built outside of work or education. What was hard? What was fun? Why did you build it? What do you plan to do next with it? Similarly, please share an example of a great application that solves a difficult UX/interface challenge? What makes it great?
+
+- I don’t have any finished public projects outside of work, but I can share my experience with a project I worked on at Wazoku. I contributed to the development of the Challenge Builder V2, a flexible and configurable feature designed to improve user experience.
+We created a builder wizard that allowed users to configure default settings in just a few minutes, while providing advanced users the option to customize through hidden sections in expandable accordions. This approach simplified complex configurations into a user-friendly interface, making it adaptable for both casual and power users.
+Next, we plan to introduce tailored templates based on common use cases to improve the client onboarding process.
+
 I am excited about the opportunity to join your team and contribute my experience to your projects. I would appreciate your consideration of me as a candidate for this role.
 
 Thank you for your time, and I look forward to hearing from you.
 
 Sincerely,  
-**Evald Spedzhev**
+**Evald Spedzhev**~~
