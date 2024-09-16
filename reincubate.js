@@ -4,7 +4,7 @@ const puppeteer = require('puppeteer');
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
-  // HTML content of the cover letter
+  // HTML content of the cover letter with questions and answers
   const htmlContent = `
   <!DOCTYPE html>
   <html lang="en">
@@ -33,6 +33,10 @@ const puppeteer = require('puppeteer');
           }
           ul li {
               margin-bottom: 5px;
+          }
+          .question {
+              font-weight: bold;
+              margin-top: 20px;
           }
       </style>
   </head>
@@ -74,8 +78,9 @@ const puppeteer = require('puppeteer');
           is one of the most important aspects of life.</li>
       </ul>
 
-      <h2>QA Section</h2>
-      <p>I don’t have any finished public projects outside of work, but I can share my experience with a project I worked on at Wazoku. 
+      <h2>Question and Answer Section</h2>
+      <p class="question">Q: Tell us about a project, site or app you’ve built outside of work or education. What was hard? What was fun? Why did you build it? What do you plan to do next with it?</p>
+      <p>A: I don’t have any finished public projects outside of work, but I can share my experience with a project I worked on at Wazoku. 
       I contributed to the development of the Challenge Builder V2, a flexible and configurable feature designed to improve user experience.</p>
 
       <p>We created a builder wizard that allowed users to configure default settings in just a few minutes, 
@@ -83,6 +88,9 @@ const puppeteer = require('puppeteer');
       This approach simplified complex configurations into a user-friendly interface, making it adaptable for both casual and power users.</p>
 
       <p>Next, we plan to introduce tailored templates based on common use cases to improve the client onboarding process.</p>
+
+      <p class="question">Q: Similarly, please share an example of a great application that solves a difficult UX/interface challenge? What makes it great?</p>
+      <p>A: The key UX challenge was providing a balance between simplicity and flexibility. Users can breeze through the default settings in just a few minutes, while advanced users can access the more complex options through expandable sections.</p>
 
       <p>I am excited about the opportunity to join your team and contribute my experience to your projects. 
       I would appreciate your consideration of me as a candidate for this role.</p>
