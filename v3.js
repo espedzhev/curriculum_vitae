@@ -1,3 +1,7 @@
+/* jshint esversion: 8 */
+/* jshint node: true */
+"use strict";
+
 const puppeteer = require('puppeteer');
 const markdown = require('markdown').markdown;
 const fs = require('fs');

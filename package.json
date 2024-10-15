@@ -11,5 +11,16 @@
   "dependencies": {
     "markdown": "^0.5.0",
     "puppeteer": "^23.3.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.6"
+  },
+  "jshintConfig": {
+    "esversion": 8,
+    "node": true,
+    "strict": true,
+    "globals": {
+      "jQuery": true
+    }
   }
 }
